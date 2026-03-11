@@ -1,0 +1,5 @@
+{
+  "name": "Object Tracker AI",
+  "description": "Сервис для трекинга объектов на фотографиях с использованием нейросетей",
+  "requestFramePermissions": []
+}
